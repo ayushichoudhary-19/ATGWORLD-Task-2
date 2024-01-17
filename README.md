@@ -8,7 +8,7 @@
 
 
 ### Check out the Live Demo
-🔗[Live Demo](https://atg-world-eight.vercel.app/)
+🔗[Live Demo](https://atgworld-task-2.vercel.app/)
 
 ### 🛠️ Languages and Tools used
 
